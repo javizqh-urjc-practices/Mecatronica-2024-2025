@@ -8,7 +8,7 @@ module main #(
  parameter v01d381 = 262,
  parameter v745ec5 = 294,
  parameter v236d93 = 330,
- parameter v9d3abd = 880
+ parameter v9d3abd = 440
 ) (
  input v8668d0,
  input vclk,
@@ -175,7 +175,7 @@ module main #(
   .v4642b6(w10),
   .ve4a668(w23),
   .vd793aa(w32),
-  .v27dec4(w37)
+  .v27dec4(w38)
  );
  va1fbc9 #(
   .v93035e(p12)
@@ -199,7 +199,7 @@ module main #(
   .vfe17e9(w14),
   .v875293(w15),
   .vd646f9(w17),
-  .ve50a7b(w38)
+  .ve50a7b(w37)
  );
  va1fbc9 #(
   .v93035e(p16)
