@@ -503,7 +503,7 @@
           "id": "4eb3b5e7-bb7a-4aaa-8fb6-4515f9680f7d",
           "type": "basic.info",
           "data": {
-            "info": "## Ejemplo 20: Emitir la secuencia DO-RE-MI\n\nSe tocan las notas DO-RE-MI manualmente, al apretar `SW1`",
+            "info": "## Ejemplo 6: Emitir la secuencia DO-RE-MI-LA\n\nSe tocan las notas DO-RE-MI-LA manualmente, al apretar `SW1`",
             "readonly": true
           },
           "position": {
